@@ -26,6 +26,7 @@
 - @aaashun
 - @William-Sang
 - @coder-zhuyu
+- @DerekGrant
 
 ## 志愿者
 
