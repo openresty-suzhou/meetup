@@ -24,8 +24,8 @@
 
 活动时间        | 名称                  | 讲师
 --------------- | -------------         | ---------------
-2016年08月29日  | OpenResty从入门到跑路 | [ coder-zhuyu ](https://github.com/coder-zhuyu)
-2016年09月11日  | Openresty新特性简介   | [ Gerrard-YNWA ](https://github.com/Gerrard-YNWA)
+2016年08月29日  | OpenResty从入门到跑路 | [@coder-zhuyu](https://github.com/coder-zhuyu)
+2016年09月11日  | Openresty新特性简介   | [@Gerrard-YNWA](https://github.com/Gerrard-YNWA)
 
 ## 管理内容:
 
@@ -41,10 +41,10 @@
 
 ## 组织者
 
-- @aaashun
-- @William-Sang
-- @coder-zhuyu
-- @DerekGrant
+- [@aaashun](https://github.com/aaashun)
+- [@William-Sang](https://github.com/Willim-Sang)
+- [@coder-zhuyu](https://github.com/coder-zhuyu)
+- [@DerekGrant](https://github.com/DerekGrant)
 
 ## 志愿者
 
