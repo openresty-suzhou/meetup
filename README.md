@@ -22,9 +22,10 @@
 
 ## 活动记录
 
-活动时间        | 名称
---------------- | -------------
-2016年08月29日  | OpenResty从入门到跑路
+活动时间        | 名称                  | 讲师
+--------------- | -------------         | ---------------
+2016年08月29日  | OpenResty从入门到跑路 | [ coder-zhuyu ](https://github.com/coder-zhuyu)
+2016年09月11日  | Openresty新特性简介   | [ Gerrard-YNWA ](https://github.com/Gerrard-YNWA)
 
 ## 管理内容:
 
