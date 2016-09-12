@@ -34,7 +34,7 @@
 
 ## 创建活动须知
 
-1. 由发起人复制[plan_templete](./plan_templete.md)到issue创建界面，进行发帖
+1. 由发起人复制 [plan_templete](./plan_templete.md) 到issue创建界面，进行发帖
 2. 由发起人确定参与人员
 3. 参与人员对活动参与内容、人员进行讨论发帖
 4. 发起人经过沟通修改活动帖，以此推进活动进展
